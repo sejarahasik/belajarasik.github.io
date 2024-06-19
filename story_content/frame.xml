@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Media Zaman Praaksara " />
+              <option name="title_text" value="Media Belajar-Periodesasi Zaman Praaksara X" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1290,6 +1290,7 @@
           <links>
             <slidelink slideid="_player.6mCMglES730.6nPCqcXoZvC" displaytext="Cover" expand="false" type="slide" />
             <slidelink slideid="_player.6mCMglES730.5pUaZOlZGcO" displaytext="menu" expand="false" type="slide" />
+            <slidelink slideid="_player.6mCMglES730.6JzlQexbcn9" displaytext="LOGIN" expand="false" type="slide" />
             <slidelink slideid="_player.6mCMglES730.6cHwOePFBC6" displaytext="Petunjuk" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1313,17 +1314,24 @@
         </slidelink>
         <slidelink slideid="_player.6nHmKquybq0" displaytext="quiz" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6nHmKquybq0.6UBb0L4o0us" displaytext=" Q1" expand="false" type="slide" />
-            <slidelink slideid="_player.6nHmKquybq0.5XQG5IrzDDE" displaytext="Q3" expand="false" type="slide" />
+            <slidelink slideid="_player.6nHmKquybq0.5XQG5IrzDDE" displaytext="Q6" expand="false" type="slide" />
             <slidelink slideid="_player.6nHmKquybq0.6qCNmSGsTLG" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nHmKquybq0.5arUN2esbMj" displaytext="Q4" expand="false" type="slide" />
+            <slidelink slideid="_player.6nHmKquybq0.5xcS6cG3sOL" displaytext="Q1" expand="false" type="slide" />
+            <slidelink slideid="_player.6nHmKquybq0.63vM8T8jr58" displaytext="Q2" expand="false" type="slide" />
+            <slidelink slideid="_player.6nHmKquybq0.5rHw3ydN8ot" displaytext="Q3" expand="false" type="slide" />
             <slidelink slideid="_player.6nHmKquybq0.6S1Xl2PiuhU" displaytext="cover quiz" expand="false" type="slide" />
-            <slidelink slideid="_player.6nHmKquybq0.5dPu31rwdqG" displaytext="Q2" expand="false" type="slide" />
+            <slidelink slideid="_player.6nHmKquybq0.5WkG4bZmvJQ" displaytext="Q5" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5rdkq8bMfIU" displaytext="pendahuluan" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5rdkq8bMfIU.5tUABsITCQa" displaytext="profil" expand="false" type="slide" />
             <slidelink slideid="_player.5rdkq8bMfIU.6XhArjcscXa" displaytext="pengenalan materi" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.661JJR2iwIW" displaytext="Profil " expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.661JJR2iwIW.6Ca9qi1CeVC" displaytext="profil" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
